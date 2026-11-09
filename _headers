@@ -1,0 +1,5 @@
+/oidc/.well-known/openid-configuration
+  Content-Type: application/json
+
+/oidc/jwks
+  Content-Type: application/json
